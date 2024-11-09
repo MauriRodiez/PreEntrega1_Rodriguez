@@ -1,0 +1,33 @@
+
+.menu{
+    align-items: center;
+    background-color: rgb(221, 238, 255);
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    width: 100vw;
+}
+
+.navbar{
+    align-items: center;
+    display: flex;
+    list-style-type: none;
+    padding: 0 2rem;
+}
+
+.navbar li{
+    margin: 0 1rem;
+}
+
+.navbar li a{
+    color: rgb(27, 26, 141);
+    cursor: pointer;
+    letter-spacing: 0.075rem;
+    text-decoration: none;
+}
+
+.navbar li a:hover{
+    color: #333;
+    text-decoration: underline;
+}
+

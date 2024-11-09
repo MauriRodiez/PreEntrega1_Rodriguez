@@ -1,0 +1,12 @@
+
+.container{
+    align-items: center;
+    display: flex;
+    margin: 5rem 0;
+    width: 100vw;
+}
+
+.title{
+    font-size: 3.5rem;
+    margin: auto;
+}
